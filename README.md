@@ -52,10 +52,13 @@ while True:
     s.send(ip.encode())
     print(s.recv(1024).decode())
 ```
+
 ## Output
 ![client](https://github.com/user-attachments/assets/617e2947-315e-44c7-8531-af07f3318b63)
 
 ![server](https://github.com/user-attachments/assets/e016ae78-a7b0-4cdf-bdf2-ba01591b64a5)
+
+![trace](https://github.com/user-attachments/assets/3b1ded96-51e5-4d88-ba7e-090811953f19)
 
 ## Result
 Thus Execution of Network commands Performed 
